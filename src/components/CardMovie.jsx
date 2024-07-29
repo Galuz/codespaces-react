@@ -1,11 +1,10 @@
 import React from 'react'
-import belfastMovie from '../assets/belfast-movie.png';
 
-export default function CardMovie() {
+export default function CardMovie({title, image}) {
   return (
     <div className='card-movie'>
-      <img src={belfastMovie} alt="image movie" />
-      <span>Belfast</span>
+      <img src={image} alt="image movie" />
+      <span>{title}</span>
     </div>
   )
 }

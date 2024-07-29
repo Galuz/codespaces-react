@@ -1,12 +1,12 @@
 [
-    { "name": "Belfast", "image": "../assets/belfast-movie.png" },
-    { "name": "Coda", "image": "../assets/coda.png" },
-    { "name": "Don't Look Up", "image": "../assets/dont-look-up.png" },
-    { "name": "Drive My Car", "image": "../assets/drive-my-car.png" },
-    { "name": "Dune", "image": "../assets/dune.png" },
-    { "name": "King Richard", "image": "../assets/king-richard.png" },
-    { "name": "Licorice Pizza", "image": "../assets/lacorice-pizza.png" },
-    { "name": "Nightmare Alley", "image": "../assets/nightmare-alley.png" },
-    { "name": "The Power of the Dog", "image": "../assets/the-power-of-the-dog.png" },
-    { "name": "West Side Story", "image": "../assets/west-side-story.png" }
+    { "id": 1, "name": "Belfast", "image": "/assets/images/movies/belfast-movie.png" },
+    { "id": 2, "name": "Coda", "image": "/assets/images/movies/coda.png" },
+    { "id": 3, "name": "Don't Look Up", "image": "/assets/images/movies/dont-look-up.png" },
+    { "id": 4, "name": "Drive My Car", "image": "/assets/images/movies/drive-my-car.png" },
+    { "id": 5, "name": "Dune", "image": "/assets/images/movies/dune.png" },
+    { "id": 6, "name": "King Richard", "image": "/assets/images/movies/king-richard.png" },
+    { "id": 7, "name": "Licorice Pizza", "image": "/assets/images/movies/lacorice-pizza.png" },
+    { "id": 8, "name": "Nightmare Alley", "image": "/assets/images/movies/nightmare-alley.png" },
+    { "id": 9, "name": "The Power of the Dog", "image": "/assets/images/movies/the-power-of-the-dog.png" },
+    { "id": 10, "name": "West Side Story", "image": "/assets/images/movies/west-side-story.png" }
 ]
