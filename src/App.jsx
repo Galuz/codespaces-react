@@ -11,7 +11,7 @@ function App() {
     <Router>
       <div className="App">
         <Navbar />
-        <section>
+        <section className='content'>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/ranking" element={<Ranking />} />
