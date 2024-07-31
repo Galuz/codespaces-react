@@ -1,0 +1,99 @@
+{
+    "directing": [
+      {
+        "id": 1,
+        "name": "Kenneth Branagh",
+        "movie": "Belfast",
+        "image": "/assets/images/directing/kenneth-branagh.png"
+      },
+      {
+        "id": 2,
+        "name": "Ryusuke Hamaguchi",
+        "movie": "Drive My Car",
+        "image": "/assets/images/directing/ryusuke-hamaguchi.png"
+      },
+      {
+        "id": 3,
+        "name": "Paul Thomas Anderson",
+        "movie": "Licorice Pizza",
+        "image": "/assets/images/directing/paul-thomas-anderson.png"
+      },
+      {
+        "id": 4,
+        "name": "Jane Campion",
+        "movie": "The Power of the Dog",
+        "image": "/assets/images/directing/jane-campion.png"
+      },
+      {
+        "id": 5,
+        "name": "Steven Spielberg",
+        "movie": "West Side Story",
+        "image": "/assets/images/directing/steven-spielberg.png"
+      }
+    ],
+    "actorInLeadingRole": [
+      {
+        "id": 1,
+        "name": "Javier Bardem",
+        "movie": "Being The Ricardos",
+        "image": "/assets/images/actor/javier-bardem.png"
+      },
+      {
+        "id": 2,
+        "name": "Benedict Cumberbatch",
+        "movie": "The Power of the Dog",
+        "image": "/assets/images/actor/benedict-cumberbatch.png"
+      },
+      {
+        "id": 3,
+        "name": "Andrew Garfield",
+        "movie": "Tick, Tick... Boom!",
+        "image": "/assets/images/actor/andrew-garfield.png"
+      },
+      {
+        "id": 4,
+        "name": "Will Smith",
+        "movie": "King Richard",
+        "image": "/assets/images/actor/will-smith.png"
+      },
+      {
+        "id": 5,
+        "name": "Denzel Washington",
+        "movie": "The Tragedy of Macbeth",
+        "image": "/assets/images/actor/denzel-washington.png"
+      }
+    ],
+    "actressInLeadingRole": [
+      {
+        "id": 1,
+        "name": "Jessica Chastain",
+        "movie": "The Eyes of Tammy Faye",
+        "image": "/assets/images/actress/jessica-chastain.png"
+      },
+      {
+        "id": 2,
+        "name": "Olivia Colman",
+        "movie": "The Lost Daughter",
+        "image": "/assets/images/actress/olivia-colman.png"
+      },
+      {
+        "id": 3,
+        "name": "Penélope Cruz",
+        "movie": "Parallel Mothers",
+        "image": "/assets/images/actress/penelope-cruz.png"
+      },
+      {
+        "id": 4,
+        "name": "Nicole Kidman",
+        "movie": "Being The Ricardos",
+        "image": "/assets/images/actress/nicole-kidman.png"
+      },
+      {
+        "id": 5,
+        "name": "Kristen Stewart",
+        "movie": "Spencer",
+        "image": "/assets/images/actress/kristen-stewart.png"
+      }
+    ]
+  }
+  
