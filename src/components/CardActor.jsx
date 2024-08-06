@@ -1,12 +1,12 @@
 import React from 'react'
 
-export default function CardActor() {
+export default function CardActor({name, movie, image}) {
   return (
     <div>
-      <img src="" alt="" />
+      <img src="{image}" alt={`${name} image`}/>
       <div>
-        <p>ActorName</p>
-        <span>Movie Name</span>
+        <p>{name}</p>
+        <span>{movie}</span>
       </div>
     </div>
   )
