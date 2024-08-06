@@ -4,31 +4,31 @@
         "id": 1,
         "name": "Kenneth Branagh",
         "movie": "Belfast",
-        "image": "/assets/images/directing/kenneth-branagh.png"
+        "image": "/assets/images/actors/Kenneth_Brannagh.png"
       },
       {
         "id": 2,
         "name": "Ryusuke Hamaguchi",
         "movie": "Drive My Car",
-        "image": "/assets/images/directing/ryusuke-hamaguchi.png"
+        "image": "/assets/images/actors/Ryusuke_Hamaguchi.png"
       },
       {
         "id": 3,
         "name": "Paul Thomas Anderson",
         "movie": "Licorice Pizza",
-        "image": "/assets/images/directing/paul-thomas-anderson.png"
+        "image": "/assets/images/actors/Paul_Thomas_Anderson.png"
       },
       {
         "id": 4,
         "name": "Jane Campion",
         "movie": "The Power of the Dog",
-        "image": "/assets/images/directing/jane-campion.png"
+        "image": "/assets/images/actors/Jane_Campion.png"
       },
       {
         "id": 5,
         "name": "Steven Spielberg",
         "movie": "West Side Story",
-        "image": "/assets/images/directing/steven-spielberg.png"
+        "image": "/assets/images/actors/Steven_Spielberg.png"
       }
     ],
     "actorInLeadingRole": [
@@ -36,31 +36,31 @@
         "id": 1,
         "name": "Javier Bardem",
         "movie": "Being The Ricardos",
-        "image": "/assets/images/actor/javier-bardem.png"
+        "image": "/assets/images/actors/Javier_Bardem.png"
       },
       {
         "id": 2,
         "name": "Benedict Cumberbatch",
         "movie": "The Power of the Dog",
-        "image": "/assets/images/actor/benedict-cumberbatch.png"
+        "image": "/assets/images/actors/Benedict_Cumberbatch.png"
       },
       {
         "id": 3,
         "name": "Andrew Garfield",
         "movie": "Tick, Tick... Boom!",
-        "image": "/assets/images/actor/andrew-garfield.png"
+        "image": "/assets/images/actors/Andrew_Garfield.png"
       },
       {
         "id": 4,
         "name": "Will Smith",
         "movie": "King Richard",
-        "image": "/assets/images/actor/will-smith.png"
+        "image": "/assets/images/actors/Will_Smith.png"
       },
       {
         "id": 5,
         "name": "Denzel Washington",
         "movie": "The Tragedy of Macbeth",
-        "image": "/assets/images/actor/denzel-washington.png"
+        "image": "/assets/images/actors/Denzel_Washington.png"
       }
     ],
     "actressInLeadingRole": [
@@ -68,31 +68,31 @@
         "id": 1,
         "name": "Jessica Chastain",
         "movie": "The Eyes of Tammy Faye",
-        "image": "/assets/images/actress/jessica-chastain.png"
+        "image": "/assets/images/actors/Jessica_Chastain.png"
       },
       {
         "id": 2,
         "name": "Olivia Colman",
         "movie": "The Lost Daughter",
-        "image": "/assets/images/actress/olivia-colman.png"
+        "image": "/assets/images/actors/Olivia_Colman.png"
       },
       {
         "id": 3,
         "name": "Penélope Cruz",
         "movie": "Parallel Mothers",
-        "image": "/assets/images/actress/penelope-cruz.png"
+        "image": "/assets/images/actors/Penélope_Cruz.png"
       },
       {
         "id": 4,
         "name": "Nicole Kidman",
         "movie": "Being The Ricardos",
-        "image": "/assets/images/actress/nicole-kidman.png"
+        "image": "/assets/images/actors/Nicole_Kidman.png"
       },
       {
         "id": 5,
         "name": "Kristen Stewart",
         "movie": "Spencer",
-        "image": "/assets/images/actress/kristen-stewart.png"
+        "image": "/assets/images/actors/Kristen_Stewart.png"
       }
     ]
   }
