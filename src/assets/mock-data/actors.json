@@ -94,6 +94,102 @@
         "movie": "Spencer",
         "image": "/assets/images/actors/Kristen_Stewart.png"
       }
+    ],
+    "actorInSupportingRole": [
+      {
+        "id": 1,
+        "name": "Ciarán Hinds",
+        "movie": "Belfast",
+        "image": "/assets/images/actors/Ciarán_Hinds.png"
+      },
+      {
+        "id": 2,
+        "name": "Troy Kotsur",
+        "movie": "Coda",
+        "image": "/assets/images/actors/Troy_Kotsur.png"
+      },
+      {
+        "id": 3,
+        "name": "Jesse Plemons",
+        "movie": "The Power of the Dog",
+        "image": "/assets/images/actors/Jesse_Plemons.png"
+      },
+      {
+        "id": 4,
+        "name": "J.K. Simmons",
+        "movie": "Being The Ricardos",
+        "image": "/assets/images/actors/J.K_Simmons.png"
+      },
+      {
+        "id": 5,
+        "name": "Kodi Smith-McPhee",
+        "movie": "The Power Of The Dog",
+        "image": "/assets/images/actors/Kodi_Smith_McPhee.png"
+      }
+    ],
+    "actressInSupportingRole": [
+      {
+        "id": 1,
+        "name": "Jessie Buckley",
+        "movie": "The Lost Daughter",
+        "image": "/assets/images/actors/Jessie_Buckley.png"
+      },
+      {
+        "id": 2,
+        "name": "Ariana Debose",
+        "movie": "West Side Story",
+        "image": "/assets/images/actors/Ariana_Debose.png"
+      },
+      {
+        "id": 3,
+        "name": "Judy Dench",
+        "movie": "Belfast",
+        "image": "/assets/images/actors/Judy_Dench.png"
+      },
+      {
+        "id": 4,
+        "name": "Kirsten Dunst",
+        "movie": "The Power Of The Dogs",
+        "image": "/assets/images/actors/Kirsten_Dunst.png"
+      },
+      {
+        "id": 5,
+        "name": "Aunjanue Ellis",
+        "movie": "King Richard",
+        "image": "/assets/images/actors/Aunjanue_Ellis.png"
+      }
+    ],
+    "animatedFeature": [
+      {
+        "id": 1,
+        "name": "Encanto",
+        "movie": "Disney Animation",
+        "image": "/assets/images/actors/Encanto.png"
+      },
+      {
+        "id": 2,
+        "name": "Flee",
+        "movie": "Vice studios",
+        "image": "/assets/images/actors/Flee.png"
+      },
+      {
+        "id": 3,
+        "name": "Luca",
+        "movie": "Disney Pixar",
+        "image": "/assets/images/actors/Luca.png"
+      },
+      {
+        "id": 4,
+        "name": "The Mitchells vs The Machines",
+        "movie": "Netflix",
+        "image": "/assets/images/actors/The_Mitchells_vs_The_Machines.png"
+      },
+      {
+        "id": 5,
+        "name": "Raya and the Last Dragon",
+        "movie": "Disney Animation",
+        "image": "/assets/images/actors/Raya_and_the_Last_Dragon.png"
+      }
     ]
   }
   
